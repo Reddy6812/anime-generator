@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision
+diffusers
+transformers
+accelerate
+wandb
+gradio
+python-opencv
+pillow
+numpy
+kaggle
+fastapi
+uvicorn
